@@ -1,0 +1,9 @@
+numpy
+torch
+scipy
+open3d
+h5py
+six
+tqdm
+plyfile
+ipyvolume
