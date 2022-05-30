@@ -1,4 +1,4 @@
-# Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set 
+# Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set [RAL 2022]
 
 [Preprint](web)   |   [Supplementary](./assets/sup.pdf)
 
