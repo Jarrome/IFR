@@ -1,19 +1,13 @@
-# Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set [RAL 2022]
+# Indirect Registration
+This repository contains the implementation of our **RAL 2022** paper: **Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set**.
+
+[Yijun Yuan](https://jarrome.github.io/), [Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/)
 
 [Preprint](web)   |   [Supplementary](./assets/sup.pdf)
 
 ![plot](./assets/moon2.png)
 
-If you find this work interesting, please cite us:
-```
-@article{yuan2022indirect,
-  title={Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set },
-  author={Yuan, Yijun and N{\"u}chter, Andreas},
-  journal={IEEE Robotics and Automation Letters},
-  year={2022},
-  publisher={IEEE}
-}
-```
+
 
 ## Install
 ```
@@ -51,6 +45,18 @@ Afterwards, for testing, please find **./scripts/**.
 source ./scripts/modelnet.sh
 source ./scripts/shapenet.sh
 source ./scripts/3dmatch.sh
+```
+
+## Citation
+If you find this work interesting, please cite us:
+```
+@article{yuan2022indirect,
+  title={Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set },
+  author={Yuan, Yijun and N{\"u}chter, Andreas},
+  journal={IEEE Robotics and Automation Letters},
+  year={2022},
+  publisher={IEEE}
+}
 ```
 
 ## Acknowlegement
