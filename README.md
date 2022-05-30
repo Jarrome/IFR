@@ -1,7 +1,5 @@
 # Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set 
 
-[RA-L 2022] Yuan, Yijun, and Nüchter Andreas. (2022) Indirect Point Cloud Registration: Aligning Distance Fields using a Pseudo Third Point Set. 
-
 [Preprint](web)   |   [Supplementary](./assets/sup.pdf)
 
 ![plot](./assets/moon2.png)
