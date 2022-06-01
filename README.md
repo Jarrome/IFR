@@ -3,7 +3,7 @@ This repository contains the implementation of our **RAL 2022** paper: **Indirec
 
 [Yijun Yuan](https://jarrome.github.io/), [Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/space/mitarbeiter/nuechter/)
 
-[Preprint](https://github.com/Jarrome/IFR/blob/master/assets/22-0447_03_MS.pdf)   |   [Supplementary](./assets/sup.pdf)
+[Preprint](https://arxiv.org/abs/2205.15954)   |   [Supplementary](./assets/sup.pdf)
 
 ![plot](./assets/moon2.png)
 
