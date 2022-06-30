@@ -8,7 +8,6 @@ This repository contains the implementation of our **RAL 2022** paper: **Indirec
 ![plot](./assets/moon2.png)
 
 
-
 ## Install
 ```
 conda create -n ifr_exp python=3.6
@@ -16,6 +15,11 @@ conda activate ifr_exp
 
 pip install -r requirements.txt
 ```
+
+#### updates
+* [30.6.2022] upload a simple setup.py. 
+
+  not necessary, but for easy embeding, just ```python setup.py install``` and will install a IFR package, se_math package contains ```IFR.ifr```, ```IFR.utils``` and etc.
 
 
 
